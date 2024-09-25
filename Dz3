@@ -1,0 +1,4 @@
+a = float(432**2)
+b = float(568**2)
+c = float(a - b)
+print(c//1000)
